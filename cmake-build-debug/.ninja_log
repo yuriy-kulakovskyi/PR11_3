@@ -1,0 +1,15 @@
+# ninja log v6
+507	815	1731940614125889559	/Users/yura_kulakovskyi/Documents/C++/AP/PR11/PR11_2/cmake-build-debug/PR11_2_tests[1]_tests.cmake	bc373d2887e6dd9c
+1713	1728	1731940599790641611	lib/libgmock_main.a	c7b38932d055d06e
+1654	1690	1731940599732471115	lib/libgtest.a	b51b69e6de22023b
+6	756	1731940598083749724	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	8c6f91888b896ed0
+507	815	1731940614125889559	PR11_2_tests[1]_tests.cmake	bc373d2887e6dd9c
+5	702	1731940598082879922	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	abc849fbc8652ecb
+1690	1708	1731940599768471839	lib/libgtest_main.a	ddd85a377c936fa9
+5	1074	1731940598082754802	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	e88750d3631df7cf
+1690	1713	1731940599768241014	lib/libgmock.a	c8c98fe986cb389b
+4	1654	1731940598082268569	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	7b82ddeb03a8d9fb
+3	72	1731940954526130903	build.ninja	561411cffa5d6921
+0	347	1731940955813092583	CMakeFiles/PR111_3.dir/src/main.cpp.o	e517f37b25cddefc
+1	379	1731940955813336778	CMakeFiles/PR111_3.dir/src/functions.cpp.o	36080705c2a41d55
+379	470	1731940956191294737	PR111_3	468ec256518b2053

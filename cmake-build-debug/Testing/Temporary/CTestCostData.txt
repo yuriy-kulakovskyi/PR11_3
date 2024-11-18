@@ -1,0 +1,2 @@
+SearchByShopTest.FindsProductsInShop 2 0.00180896
+---
